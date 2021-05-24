@@ -26,7 +26,7 @@ Patrick
 
 * [Développeur Pascal](https://developpeur-pascal.fr) où j'écris des choses régulièrement. Pour savoir quoi, allez voir. :smirk:
 
-* [Serial Streameur](https://serialstreameur.fr) propose des centaines d'heures de vidéos en français de codage de logiciels, de jeux vidéos, des présentations techniques et des conférences en ligne destinées aux développements de logiciels, jeux vidéos, applications mobildes et sites Internet.
+* [Serial Streameur](https://serialstreameur.fr) propose des centaines d'heures de vidéos en français de codage de logiciels, de jeux vidéos, des présentations techniques et des conférences en ligne destinées aux développeurs de logiciels, jeux vidéos, applications mobiles et sites Internet.
 
 * [Ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) où je streame régulièrement.
 

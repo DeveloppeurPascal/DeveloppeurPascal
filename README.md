@@ -4,7 +4,7 @@ Bonjour à tou(te)s.
 
 A la base je suis un développeur de jeux vidéos :video_game: (ou en tout cas c'est comme ça que je me voyais quand je codais sur mon TO7-70 en 1984) mais depuis j'ai mal tourné ! :confounded:
 
-Actuellement plutôt orienté [formation](https://se-former-a-delphi.fr), codage de librairies, d'utilitaires, de petits logiciels et finalement de [jeux vidéos simples](https://gamolf.itch.io) lors de séances de codage en direct sur [Twitch](https://www.twitch.tv/patrickpremartin) :tv:
+Actuellement plutôt orienté [formation](https://apprendre-delphi.fr/), codage de librairies, d'utilitaires, de petits logiciels et finalement de [jeux vidéos simples](https://gamolf.itch.io) lors de séances de codage en direct sur [Twitch](https://www.twitch.tv/patrickpremartin) :tv:
 
 J'interviens [sur demande](https://olfsoftware.fr/contact/) pour des besoins de formation en entreprise, de l'audit et du conseil sur des problématiques identifiées.
 

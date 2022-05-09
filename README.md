@@ -16,9 +16,9 @@ Inspirez vous, codez bien !
 
 Patrick
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/premartinpatric?style=social)](https://twitter.com/PremartinPatric)
+[![Twitter Follow](https://img.shields.io/twitter/follow/premartinpatric?style=for-the-badge)](https://twitter.com/PremartinPatric)
 
-[![Twitch Status](https://img.shields.io/twitch/status/patrickpremartin?style=social)](https://www.twitch.tv/patrickpremartin)
+[![Twitch Status](https://img.shields.io/twitch/status/patrickpremartin?style=for-the-badge)](https://www.twitch.tv/patrickpremartin)
 
 ## Liens utiles pour développeurs Delphi et ceux qui veulent le devenir
 

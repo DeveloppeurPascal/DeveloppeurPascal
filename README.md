@@ -28,9 +28,19 @@ Patrick
 
 * [Apprendre Delphi](https://apprendre-delphi.fr) pour se former à Delphi à l'aide d'une formation gratuite à la programmation logicielle.
 
+[![Nombre de formations](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapprendre-delphi.fr%2Fbadge-nb-projets.php)](https://apprendre-delphi.fr/nos-formations-delphi.php)
+[![Nombre de vidéos](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapprendre-delphi.fr%2Fbadge-nb-videos.php)](https://apprendre-delphi.fr/nos-cours-delphi.php)
+![Durée totale de vidéos sur le site](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapprendre-delphi.fr%2Fbadge-duree-videos.php)
+
 * [Développeur Pascal](https://developpeur-pascal.fr) pour connaître l'actualité de Delphi et des articles et vidéos techniques sur le codage en Pascal. :smirk:
 
+[![Nombre d'articles](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fdeveloppeur-pascal.fr%2Fbadge-nb-articles.php)](https://developpeur-pascal.fr/)
+
 * [Serial Streameur](https://serialstreameur.fr) propose des centaines d'heures de vidéos en français de codage de logiciels, de jeux vidéos, des présentations techniques et des conférences en ligne destinées aux développeurs de logiciels, jeux vidéos, applications mobiles et sites Internet.
+
+[![Nombre de projets](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fserialstreameur.fr%2Fbadge-nb-projets.php)](https://serialstreameur.fr/les-projets.php)
+[![Nombre de vidéos](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fserialstreameur.fr%2Fbadge-nb-videos.php)](https://serialstreameur.fr/les-videos.php)
+![Durée totale de vidéos sur le site](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fserialstreameur.fr%2Fbadge-duree-videos.php)
 
 ## Soutien
 

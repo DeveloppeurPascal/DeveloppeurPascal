@@ -44,7 +44,7 @@ Patrick
 
 ## Soutien
 
-Si le coeur vous en dit et que les finances vous le permettent, venir soutenir mon travail ici et ailleurs. Vos dons seront bien employés.
+Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Vos dons seront bien employés.
 
 [![Liberapay patrons](https://img.shields.io/liberapay/patrons/PatrickPremartin?style=for-the-badge)](https://liberapay.com/PatrickPremartin)
 

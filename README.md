@@ -24,6 +24,7 @@ Patrick
 
 Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Ces liens sont aussi disponibles sur chacun de mes dépôts (merci GitHub pour cette fonctionnalité) :
 
+* [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal) <= à privilégier si vous êtes une entreprise car vous aurez une facture
 * [Liberapay](https://liberapay.com/PatrickPremartin)
 * [Patreon](https://www.patreon.com/patrickpremartin)
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)

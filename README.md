@@ -24,10 +24,11 @@ Patrick
 
 Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Ces liens sont aussi disponibles sur chacun de mes dépôts (merci GitHub pour cette fonctionnalité) :
 
-* [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal) <= à privilégier si vous êtes une entreprise car vous aurez une facture
+* [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal) <= des contreparties dispos
 * [Liberapay](https://liberapay.com/PatrickPremartin)
 * [Patreon](https://www.patreon.com/patrickpremartin)
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
+* [Twitch](https://www.twitch.tv/patrickpremartin) <= les abonnés ont accès aux archives dispos sur Twitch
 
 Vos dons seront bien employés mais vous pouvez surtout me soutenir en prenant un abonnement mensuel ou annuel (sans engagement) sur [Zone Abo](https://zone-abo.fr) ce qui vous permet aussi d'avoir des contreparties et une facture (pratique si vous êtes en entreprise et avez besoin d'un justificatif).
 

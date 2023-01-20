@@ -30,7 +30,7 @@ Si le coeur vous en dit et que les finances vous le permettent, soutenez mon tra
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
 * [Twitch](https://www.twitch.tv/patrickpremartin) <= les abonnés ont accès aux archives dispos sur Twitch
 
-Vos dons seront bien employés mais vous pouvez surtout me soutenir en prenant un abonnement mensuel ou annuel (sans engagement) sur [Zone Abo](https://zone-abo.fr) ce qui vous permet aussi d'avoir des contreparties et une facture (pratique si vous êtes en entreprise et avez besoin d'un justificatif).
+Vos dons seront bien employés mais vous pouvez surtout me soutenir en prenant un abonnement mensuel ou annuel (sans engagement) sur [Zone Abo](https://zone-abo.fr) ou vous procurer quelques [goodies pour développeurs (et les autres)](https://developpeur-pascal.fr/goodies.html) ce qui vous permet aussi d'avoir des contreparties et une facture (pratique si vous êtes en entreprise et avez besoin d'un justificatif).
 
 [Zone Abo](https://zone-abo.fr) est une mega zone membre qui vous donne accès à tout ce que je fais et publie en ligne (les resources accessibles à tous bien entendu, mais aussi des licences de logiciels, des codes sources, des vidéos et des articles techniques réservés aux membres). La liste des sites inclus dans l'abonnement est détaillée sur [le site](https://zone-abo.fr). J'y parle de Delphi, PHP, JavaScript, HTML, CSS, de gestion de serveurs et d'hébergement, de développement logiciel desktop, mobile et web.
 

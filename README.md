@@ -16,8 +16,6 @@ Inspirez vous, codez bien !
 
 Patrick
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/premartinpatric?style=for-the-badge)](https://twitter.com/PremartinPatric)
-
 [![Twitch Status](https://img.shields.io/twitch/status/patrickpremartin?style=for-the-badge)](https://www.twitch.tv/patrickpremartin)
 
 ## Soutien

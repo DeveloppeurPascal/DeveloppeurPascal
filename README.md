@@ -84,4 +84,4 @@ As my main goal is to make a living from this open source+streaming activity bet
 
 * [Lazarus Learning Resources](https://lazarus-resources.developpeur-pascal.fr/) is a directory of Lazarus-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
 
-PS: This page has been translated from the French page with [DeepL translation tool](https://www.deepl.com/).
+PS: This page has been translated from [the French page](LISEZMOI.md) with [DeepL translation tool](https://www.deepl.com/).

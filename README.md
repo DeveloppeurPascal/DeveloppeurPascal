@@ -78,10 +78,10 @@ As my main goal is to make a living from this open source+streaming activity bet
 
 * Delphi developer communities exist all over the world and on the Internet. Some of them are listed [on Embarcadero's blog platform](https://blogs.embarcadero.com/community/).
 
-* Delphi Learning Resources](https://delphi-resources.developpeur-pascal.fr/) is a directory of Delphi-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
+* [Delphi Learning Resources](https://delphi-resources.developpeur-pascal.fr/) is a directory of Delphi-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
 
 * [Pascal Learning Resources](https://pascal-resources.developpeur-pascal.fr/) is a directory of links to the Pascal and Object Pascal languages, whatever the development environment.
 
-* Lazarus Learning Resources](https://lazarus-resources.developpeur-pascal.fr/) is a directory of Lazarus-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
+* [Lazarus Learning Resources](https://lazarus-resources.developpeur-pascal.fr/) is a directory of Lazarus-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
 
 PS: This page has been translated from the French page with [DeepL translation tool](https://www.deepl.com/).

@@ -22,7 +22,7 @@ These repositories serve as the basis for almost all my others:
 
 * [DeveloppeurPascal/AboutDialog-Delphi-Component](https://github.com/DeveloppeurPascal/AboutDialog-Delphi-Component) : a non-visual component for VCL and FMX to display an “about” dialog box on all platforms supported by Delphi
 * [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) : Pascal units for a little bit of everything
-* [DeveloppeurPascal/Delphi-Game-Engine](https://github.com/DeveloppeurPascal/Delphi-Game-Engine) : the toolbox for VCL video games such as FireMonkey
+* [DeveloppeurPascal/Delphi-Game-Engine](https://github.com/DeveloppeurPascal/Delphi-Game-Engine) : a toolbox for VCL video games such as FireMonkey
 
 And you have templates and starter kits that evolve according to my needs on other projects:
 

@@ -50,6 +50,8 @@ You can [contact me directly](https://olfsoftware.fr/contact/) to offer me a tra
 
 If you'd like to read, see or listen to some content, why not [access Zone Abo](https://zone-abo.fr), where you'll find my entire online archive (courses, articles, videos, ebooks, etc.).
 
+Starting in October 2024, I'm offering [a bundle to companies](https://olfsoftware.fr/p/_23001-pack-forfaitaire-pour-entreprises-et-associations.html) in the form of a monthly subscription including access to Zone Abo for all their employees, licenses, online services and hours of consulting. All in French, limited in number and subject to conditions.
+
 If you prefer goodies, I still have a few mugs for sale [exclusively on this site](https://goodies.medianim.com/search?query=delphi).
 
 As my main goal is to make a living from this open source+streaming activity between two missions as a service provider, your donations, [license purchases](https://store.olfsoftware.fr) and especially your [Zone Abo subscriptions](https://zone-abo.fr/nos-abonnements.php) are essential.

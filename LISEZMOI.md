@@ -50,6 +50,8 @@ Vous pouvez [me contacter en direct](https://olfsoftware.fr/contact/) pour me pr
 
 Pour avoir des contenus à lire, à voir ou à écouter prenez plutôt [un accès à Zone Abo](https://zone-abo.fr) où vous trouverez l'intégralité de mes archives en ligne (cours, articles, vidéos, ebooks, ...).
 
+A compter d'octobre 2024 je propose [un pack forfaitaire aux entreprises](https://olfsoftware.fr/p/_23001-pack-forfaitaire-pour-entreprises-et-associations.html) sous forme d'abonnement mensuel incluant l'accès à Zone Abo pour tous leurs employés, des licences, des services en ligne et des heures de prestation. Le tout est en français, limité en nombre et soumis à conditions.
+
 Si vous préférez des goodies il me reste quelques mugs en vente [exclusivement sur ce site](https://goodies.medianim.com/search?query=delphi).
 
 Mon objectif principal étant de vivre de cette activité open source+streaming entre deux missions en tant que prestataire, vos dons, [achats de licences](https://store.olfsoftware.fr) et surtout vos [abonnements à Zone Abo](https://zone-abo.fr/nos-abonnements.php) sont essentiels.

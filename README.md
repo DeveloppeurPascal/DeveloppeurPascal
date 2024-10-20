@@ -46,7 +46,7 @@ If you feel like it and if finances allow, support my work here and elsewhere. T
 
 If you need an invoice or accounting proof, use GitHub, Patreon or Twitch.
 
-You can also [contact me directly](https://olfsoftware.fr/contact/) to offer me a training assignment (web or Delphi development), technical assistance or one-off development work. I can also advise you or help you use anything I distribute here or elsewhere.
+You can [contact me directly](https://olfsoftware.fr/contact/) to offer me a training assignment (web or Delphi development), technical assistance or one-off development work. I can also advise you or help you use anything I distribute here or elsewhere.
 
 If you'd like to read, see or listen to some content, why not [access Zone Abo](https://zone-abo.fr), where you'll find my entire online archive (courses, articles, videos, ebooks, etc.).
 

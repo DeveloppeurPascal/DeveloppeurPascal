@@ -36,7 +36,7 @@ Vous êtes perdu dans GitHub ou ne savez pas utilisez git ? Commencez par [cette
 
 ## Soutien
 
-Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Ces liens sont aussi disponibles sur chacun de mes dépôts :
+Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Ces liens sont également disponibles sur chacun de mes dépôts :
 
 * [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
 * [Liberapay](https://liberapay.com/PatrickPremartin)
@@ -46,7 +46,7 @@ Si le coeur vous en dit et que les finances vous le permettent, soutenez mon tra
 
 S'il vous faut une facture ou un justificatif comptable passez par GitHub, Patreon ou Twitch.
 
-Vous pouvez aussi [me contacter en direct](https://olfsoftware.fr/contact/) pour me proposer une mission de formation (développement web ou Delphi), d'assistance technique ou de développement ponctuel. Je peux aussi vous conseiller ou vous aider à utiliser tout ce que je diffuse ici ou ailleurs.
+Vous pouvez [me contacter en direct](https://olfsoftware.fr/contact/) pour me proposer une mission de formation (développement web ou Delphi), d'assistance technique ou de développement ponctuel. Je peux aussi vous conseiller ou vous aider à utiliser tout ce que je diffuse ici ou ailleurs.
 
 Pour avoir des contenus à lire, à voir ou à écouter prenez plutôt [un accès à Zone Abo](https://zone-abo.fr) où vous trouverez l'intégralité de mes archives en ligne (cours, articles, vidéos, ebooks, ...).
 

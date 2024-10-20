@@ -52,7 +52,7 @@ Pour avoir des contenus à lire, à voir ou à écouter prenez plutôt [un accè
 
 Si vous préférez des goodies il me reste quelques mugs en vente [exclusivement sur ce site](https://goodies.medianim.com/search?query=delphi).
 
-Mon objectif principal étant de vivre de cette activité open source+streaming entre deux missions en tant que prestataire, vos dons, achats de licences et surtout vos [abonnements à Zone Abo](https://zone-abo.fr/nos-abonnements.php) sont essentiels.
+Mon objectif principal étant de vivre de cette activité open source+streaming entre deux missions en tant que prestataire, vos dons, [achats de licences](https://store.olfsoftware.fr) et surtout vos [abonnements à Zone Abo](https://zone-abo.fr/nos-abonnements.php) sont essentiels.
 
 ## Quelques liens pour démarrer en Pascal, Pascal Objet et Delphi
 

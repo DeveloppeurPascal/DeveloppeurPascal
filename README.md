@@ -52,7 +52,7 @@ If you'd like to read, see or listen to some content, why not [access Zone Abo](
 
 If you prefer goodies, I still have a few mugs for sale [exclusively on this site](https://goodies.medianim.com/search?query=delphi).
 
-As my main goal is to make a living from this open source+streaming activity between two missions as a service provider, your donations, license purchases and especially your [Zone Abo subscriptions](https://zone-abo.fr/nos-abonnements.php) are essential.
+As my main goal is to make a living from this open source+streaming activity between two missions as a service provider, your donations, [license purchases](https://store.olfsoftware.fr) and especially your [Zone Abo subscriptions](https://zone-abo.fr/nos-abonnements.php) are essential.
 
 ## Some links to get you started with Pascal, Object Pascal and Delphi
 

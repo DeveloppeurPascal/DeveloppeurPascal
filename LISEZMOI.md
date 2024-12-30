@@ -34,7 +34,7 @@ Certains projets sont regroupés en sous modules de packs thématiques dont [voi
 
 Vous êtes perdu dans GitHub ou ne savez pas utilisez git ? Commencez par [cette vidéo](https://developpeur-pascal.fr/manipulations-git-et-github-de-base.html).
 
-## Soutien
+## Comment soutenir mes activités open source et les streams ?
 
 Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Ces liens sont également disponibles sur chacun de mes dépôts :
 

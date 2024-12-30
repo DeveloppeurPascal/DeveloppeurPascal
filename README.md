@@ -34,7 +34,7 @@ Some projects are grouped into sub-modules of theme packs, of which [here's the 
 
 Lost in GitHub or don't know how to use git? Start with [this video](https://developpeur-pascal.fr/manipulations-git-et-github-de-base.html).
 
-## Support
+## How to support my open source activities and streams ?
 
 If you feel like it and if finances allow, support my work here and elsewhere. These links are also available on each of my repositories:
 

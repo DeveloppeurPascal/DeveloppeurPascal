@@ -39,10 +39,12 @@ Vous êtes perdu dans GitHub ou ne savez pas utilisez git ? Commencez par [cette
 Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Ces liens sont également disponibles sur chacun de mes dépôts :
 
 * [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
-* [Liberapay](https://liberapay.com/PatrickPremartin)
+* [Ko-fi (en français)](https://ko-fi.com/patrick_premartin_fr)
+* [Ko-fi (in English)](https://ko-fi.com/patrick_premartin_en)
 * [Patreon](https://www.patreon.com/patrickpremartin)
+* [Liberapay](https://liberapay.com/PatrickPremartin)
+* [Twitch](https://www.twitch.tv/subs/patrickpremartin) (Abonné Amazon Prime ? Vous avez droit à un SUB sur une chaîne Twitch chaque mois. C'est inclus dans votre abonnement, ça ne vous coûte rien de plus et ça peut être d'une grande aide pour les streameurs. Utilisez le !)
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
-* [Twitch](https://www.twitch.tv/subs/patrickpremartin) (Si vous êtes abonné Amazon Prime vous avez droit à un SUB sur une chaîne Twitch par mois. C'est inclu dans votre abonnement Prime, ça ne vous coûte rien de plus et ça peut être d'une grande aide pour les streameurs. Utilisez le !)
 
 S'il vous faut une facture ou un justificatif comptable passez par GitHub, Patreon ou Twitch.
 

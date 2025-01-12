@@ -39,10 +39,12 @@ Lost in GitHub or don't know how to use git? Start with [this video](https://dev
 If you feel like it and if finances allow, support my work here and elsewhere. These links are also available on each of my repositories:
 
 * [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
-* [Liberapay](https://liberapay.com/PatrickPremartin)
+* [Ko-fi (en français)](https://ko-fi.com/patrick_premartin_fr)
+* [Ko-fi (in English)](https://ko-fi.com/patrick_premartin_en)
 * [Patreon](https://www.patreon.com/patrickpremartin)
+* [Liberapay](https://liberapay.com/PatrickPremartin)
+* [Twitch](https://www.twitch.tv/subs/patrickpremartin) (Amazon Prime subscriber ? You're entitled to one SUB on a Twitch channel each month. It's included in your subscription, it doesn't cost you anything extra and it can be a great help for streamers. Go ahead, use it!)
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
-* [Twitch](https://www.twitch.tv/subs/patrickpremartin) (If you're an Amazon Prime subscriber, you're entitled to one SUB on a Twitch channel per month. It's included in your Prime subscription, it doesn't cost you anything extra and it can be a great help for streamers. Go ahead, use it!)
 
 If you need an invoice or accounting proof, use GitHub, Patreon or Twitch.
 

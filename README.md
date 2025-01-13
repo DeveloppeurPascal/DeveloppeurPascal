@@ -27,8 +27,9 @@ These repositories serve as the basis for almost all my others:
 And you have templates and starter kits that evolve according to my needs on other projects:
 
 * [DeveloppeurPascal/Delphi-Projects-Template](https://github.com/DeveloppeurPascal/Delphi-Projects-Template) : to have a “blank” code repository with basic files as for my code repositories
-* [DeveloppeurPascal/FMX-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit) : to get a FireMonkey project starter kit supporting translations, styles, document management
+* (WIP) [DeveloppeurPascal/FMX-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit) : to get a FireMonkey project starter kit supporting translations, styles, document management
 * [DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit](https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit) : to get a FireMonkey video game starter kit with real games as examples
+* (WIP) [DeveloppeurPascal/VCL-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit) : to get a VCL project starter kit supporting translations, styles, document management
 
 Some projects are grouped into sub-modules of theme packs, of which [here's the list](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=). This can make it easier to find things or to [download all at once](https://github.com/DeveloppeurPascal/_AllProjects).
 
@@ -39,8 +40,7 @@ Lost in GitHub or don't know how to use git? Start with [this video](https://dev
 If you feel like it and if finances allow, support my work here and elsewhere. These links are also available on each of my repositories:
 
 * [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
-* [Ko-fi (en français)](https://ko-fi.com/patrick_premartin_fr)
-* [Ko-fi (in English)](https://ko-fi.com/patrick_premartin_en)
+* Ko-fi [in French](https://ko-fi.com/patrick_premartin_fr) or [in English](https://ko-fi.com/patrick_premartin_en)
 * [Patreon](https://www.patreon.com/patrickpremartin)
 * [Liberapay](https://liberapay.com/PatrickPremartin)
 * [Twitch](https://www.twitch.tv/subs/patrickpremartin) (Amazon Prime subscriber ? You're entitled to one SUB on a Twitch channel each month. It's included in your subscription, it doesn't cost you anything extra and it can be a great help for streamers. Go ahead, use it!)

@@ -27,8 +27,9 @@ Ces dépôts servent de base pour presque tous mes autres :
 Et vous avez les templates et kits de démarrage qui évoluent en fonction de mes besoins sur les autres projets :
 
 * [DeveloppeurPascal/Delphi-Projects-Template](https://github.com/DeveloppeurPascal/Delphi-Projects-Template) : pour avoir un dépôt de code "vierge" avec des fichiers de base comme pour mes dépôts de code
-* [DeveloppeurPascal/FMX-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit) : pour avoir un kit de démarrage de projet FireMonkey prenant en charge traductions, styles, gestion de documents
+* (WIP) [DeveloppeurPascal/FMX-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit) : pour avoir un kit de démarrage de projet FireMonkey prenant en charge traductions, styles, gestion de documents
 * [DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit](https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit) : pour avoir un kit de démarrage de jeux vidéo en FireMonkey avec des vrais jeux comme exemples
+* (WIP) [DeveloppeurPascal/VCL-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit) : pour avoir un kit de démarrage de projet VCL prenant en charge traductions, styles, gestion de documents
 
 Certains projets sont regroupés en sous modules de packs thématiques dont [voici la liste](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=). Ca peut être plus facile pour trouver des choses ou pour [tout télécharger en bloc](https://github.com/DeveloppeurPascal/_AllProjects).
 
@@ -39,8 +40,7 @@ Vous êtes perdu dans GitHub ou ne savez pas utilisez git ? Commencez par [cette
 Si le coeur vous en dit et que les finances vous le permettent, soutenez mon travail ici et ailleurs. Ces liens sont également disponibles sur chacun de mes dépôts :
 
 * [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
-* [Ko-fi (en français)](https://ko-fi.com/patrick_premartin_fr)
-* [Ko-fi (in English)](https://ko-fi.com/patrick_premartin_en)
+* Ko-fi [en français](https://ko-fi.com/patrick_premartin_fr) ou [en anglais](https://ko-fi.com/patrick_premartin_en)
 * [Patreon](https://www.patreon.com/patrickpremartin)
 * [Liberapay](https://liberapay.com/PatrickPremartin)
 * [Twitch](https://www.twitch.tv/subs/patrickpremartin) (Abonné Amazon Prime ? Vous avez droit à un SUB sur une chaîne Twitch chaque mois. C'est inclus dans votre abonnement, ça ne vous coûte rien de plus et ça peut être d'une grande aide pour les streameurs. Utilisez le !)

@@ -12,8 +12,6 @@ Happy coding!
 
 Patrick
 
-[![Twitch Status](https://img.shields.io/twitch/status/patrickpremartin?style=for-the-badge)](https://www.twitch.tv/patrickpremartin)
-
 ## Where to start ?
 
 Between repositories related to webinars, conferences, training courses or books, repositories of libraries and components, repositories of video games, utility software or mobile applications, you've got plenty to do around here. One day I'll launch a search engine or document it all outside [blog devlogs](https://developpeur-pascal.fr/devlog.html).
@@ -31,11 +29,31 @@ And you have templates and starter kits that evolve according to my needs on oth
 * [DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit](https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit) : to get a FireMonkey video game starter kit with real games as examples
 * (WIP) [DeveloppeurPascal/VCL-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit) : to get a VCL project starter kit supporting translations, styles, document management
 
-Some projects are grouped into sub-modules of theme packs, of which [here's the list](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=). This can make it easier to find things or to [download all at once](https://github.com/DeveloppeurPascal/_AllProjects).
+Some projects are grouped into sub-modules of theme repositories, of which [here's the list](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=). This can make it easier to find things or to [download all at once](https://github.com/DeveloppeurPascal/_AllProjects).
 
-Lost in GitHub or don't know how to use git? Start with [this video](https://developpeur-pascal.fr/manipulations-git-et-github-de-base.html).
+Lost in GitHub or don't know how to use git? Start with [this video](https://developpeur-pascal.fr/manipulations-git-et-github-de-base.html) or the links under it.
 
-## How to support my open source activities and streams ?
+## Some links to get you started with Pascal, Object Pascal and Delphi
+
+* [Embarcadero](https://www.embarcadero.com) where you'll find descriptions of Delphi versions and can download the free Community Edition or an evaluation version.
+
+* [Online Documentation](https://docwiki.embarcadero.com) for Delphi and other Embarcadero development tools.
+
+* [Apprendre Delphi](https://apprendre-delphi.fr) to learn Delphi with technical presentations, tutorials and free software programming training. You'll also find a [Getting started with Delphi](https://apprendre-delphi.fr/prise-en-main-de-delphi.html) course for developers of other languages.
+
+* [Développeur Pascal](https://developpeur-pascal.fr) for Delphi news, my Delphi-related news and technical articles or tutorials on Pascal coding. :smirk:
+
+* [Serial Streameur](https://serialstreameur.fr) offers hundreds of hours of French-language videos of software coding, video games, technical presentations and online conferences for developers of software, video games, mobile applications and websites.
+
+* Delphi developer communities exist all over the world and on the Internet. Some of them are listed [on Embarcadero's blog platform](https://blogs.embarcadero.com/community/).
+
+* [Delphi Learning Resources](https://delphi-resources.developpeur-pascal.fr/) is a directory of Delphi-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
+
+* [Pascal Learning Resources](https://pascal-resources.developpeur-pascal.fr/) is a directory of links to the Pascal and Object Pascal languages, whatever the development environment.
+
+* [Lazarus Learning Resources](https://lazarus-resources.developpeur-pascal.fr/) is a directory of Lazarus-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
+
+## How can you support my activities, the creation of new content (videos, articles, training, presentations) and the free access to my sites, articles and videos?
 
 If you feel like it and if finances allow, support my work here and elsewhere. These links are also available on each of my repositories:
 
@@ -50,42 +68,6 @@ If you need an invoice or accounting proof, use GitHub, Patreon or Twitch.
 
 You can [contact me directly](https://olfsoftware.fr/contact/) to offer me a training assignment (web or Delphi development), technical assistance or one-off development work. I can also advise you or help you use anything I distribute here or elsewhere.
 
-If you'd like to read, see or listen to some content, why not [access Zone Abo](https://zone-abo.fr), where you'll find my entire online archive (courses, articles, videos, ebooks, etc.).
-
-Starting in October 2024, I'm offering [a bundle to companies](https://olfsoftware.fr/p/_23001-pack-forfaitaire-pour-entreprises-et-associations.html) in the form of a monthly subscription including access to Zone Abo for all their employees, licenses, online services and hours of consulting. All in French, limited in number and subject to conditions.
-
 If you prefer goodies, I still have a few mugs for sale [exclusively on this site](https://goodies.medianim.com/search?query=delphi).
-
-As my main goal is to make a living from this open source+streaming activity between two missions as a service provider, your donations, [license purchases](https://store.olfsoftware.fr) and especially your [Zone Abo subscriptions](https://zone-abo.fr/nos-abonnements.php) are essential.
-
-## Some links to get you started with Pascal, Object Pascal and Delphi
-
-* [Embarcadero](https://www.embarcadero.com) where you'll find descriptions of Delphi versions and can download the free Community Edition or an evaluation version.
-
-* [Online Documentation](https://docwiki.embarcadero.com) for Delphi and other Embarcadero development tools.
-
-* [Apprendre Delphi](https://apprendre-delphi.fr) to learn Delphi (in French) with a free software programming training and [a Delphi hand-on](https://apprendre-delphi.fr/prise-en-main-de-delphi.html) for developers of other languages.
-
-[![Nombre de formations](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapprendre-delphi.fr%2Fbadge-nb-projets.php)](https://apprendre-delphi.fr/nos-formations-delphi.php)
-[![Nombre de vidéos](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapprendre-delphi.fr%2Fbadge-nb-videos.php)](https://apprendre-delphi.fr/nos-cours-delphi.php)
-![Durée totale de vidéos sur le site](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapprendre-delphi.fr%2Fbadge-duree-videos.php)
-
-* [Développeur Pascal](https://developpeur-pascal.fr) for Delphi news, my Delphi-related news and technical articles or tutorials on Pascal coding. :smirk:
-
-[![Nombre d'articles](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fdeveloppeur-pascal.fr%2Fbadge-nb-articles.php)](https://developpeur-pascal.fr/)
-
-* [Serial Streameur](https://serialstreameur.fr) offers hundreds of hours of French-language videos of software coding, video games, technical presentations and online conferences for developers of software, video games, mobile applications and websites. You'll also find replays of my presentations at online conferences and webinars.
-
-[![Nombre de projets](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fserialstreameur.fr%2Fbadge-nb-projets.php)](https://serialstreameur.fr/les-projets.php)
-[![Nombre de vidéos](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fserialstreameur.fr%2Fbadge-nb-videos.php)](https://serialstreameur.fr/les-videos.php)
-![Durée totale de vidéos sur le site](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fserialstreameur.fr%2Fbadge-duree-videos.php)
-
-* Delphi developer communities exist all over the world and on the Internet. Some of them are listed [on Embarcadero's blog platform](https://blogs.embarcadero.com/community/).
-
-* [Delphi Learning Resources](https://delphi-resources.developpeur-pascal.fr/) is a directory of Delphi-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
-
-* [Pascal Learning Resources](https://pascal-resources.developpeur-pascal.fr/) is a directory of links to the Pascal and Object Pascal languages, whatever the development environment.
-
-* [Lazarus Learning Resources](https://lazarus-resources.developpeur-pascal.fr/) is a directory of Lazarus-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
 
 PS: This page has been translated from [the French page](LISEZMOI.md) with [DeepL translation tool](https://www.deepl.com/).

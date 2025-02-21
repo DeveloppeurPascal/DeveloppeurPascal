@@ -45,7 +45,7 @@ Vous êtes perdu dans GitHub ou ne savez pas utilisez git ? Commencez par [cette
 
 * :movie_camera: [Serial Streameur](https://serialstreameur.fr) propose des centaines d'heures de vidéos en français de codage de logiciels, de jeux vidéos, des présentations techniques et des conférences en ligne destinées aux développeurs de logiciels, jeux vidéos, applications mobiles et sites Internet.
 
-* :smiley: Des communautés de développeurs Delphi existent un peu partout dans le monde et sur Internet. Quelques unes d'entres elles sont listées [sur la plateforme de blogs d'Embarcadero](https://blogs.embarcadero.com/community/).
+* :loudspeaker: Des communautés de développeurs Delphi existent un peu partout dans le monde et sur Internet. Quelques unes d'entres elles sont listées [sur la plateforme de blogs d'Embarcadero](https://blogs.embarcadero.com/community/).
 
 * :link: [Delphi Learning Resources](https://delphi-resources.developpeur-pascal.fr/) est un annuaire de liens autour de Delphi(doc, sites officiels, forums, vidéos, blogs, tutoriels, ...)
 

@@ -2,9 +2,9 @@
 
 Bonjour
 
-A la base je suis un développeur de jeux vidéos :video_game: (c'est en tout cas comme ça que je me voyais quand je codais sur mon TO7-70 en 1984) mais depuis j'ai mal tourné ! :confounded:
+A la base je suis un développeur de jeux vidéos :video_game: (c'est en tout cas comme ça que je me voyais quand je codais sur mon TO7-70 en 1984) mais depuis j'ai mal tourné ! :scream:
 
-Depuis j'ai fait beaucoup de choses mais je reste concentré sur la création de contenus (vidéos, articles, cours, livres, [streaming Twitch](https://www.twitch.tv/patrickpremartin)), la [formation en entreprise](https://olfsoftware.fr/c/_20-formation.html) ou aux particuliers, la prestation de services (soutien technique, développement ponctuel en web ou Delphi) et l'[édition de logiciels](https://olfsoftware.fr/c/_1_-logiciels-et-utilitaires.html), de [jeux vidéos](https://gamolf.fr), d'[applications mobiles](https://olfsoftware.fr/c/_13-applications-mobiles.html), de [scripts](https://olfsoftware.fr/c/_10-scripts.html) et [librairies](https://olfsoftware.fr/c/_12-librairies-et-composants-delphi.html).
+Depuis j'ai fait beaucoup de choses mais je reste concentré sur la création de contenus (vidéos, articles, cours, livres, [streaming](https://www.twitch.tv/patrickpremartin)), la [formation en entreprise](https://olfsoftware.fr/c/_20-formation.html) ou aux particuliers, la prestation de services (soutien technique, développement ponctuel en web ou Delphi) et l'[édition de logiciels](https://olfsoftware.fr/c/_1_-logiciels-et-utilitaires.html), de [jeux vidéos](https://gamolf.fr), d'[applications mobiles](https://olfsoftware.fr/c/_13-applications-mobiles.html), de [scripts](https://olfsoftware.fr/c/_10-scripts.html) et [librairies](https://olfsoftware.fr/c/_12-librairies-et-composants-delphi.html).
 
 Pour en savoir plus, en discuter, me proposer des missions, [consultez ces liens](https://vasur.fr/gravatar) ou ma [page LinkedIn](https://www.linkedin.com/in/patrickpremartin/).
 

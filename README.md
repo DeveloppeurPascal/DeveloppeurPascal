@@ -2,7 +2,7 @@
 
 Hello
 
-Basically I'm a video game developer :video_game: (at least that's how I saw myself when I was coding on my TO7-70 in 1984) but since then I've gone wrong! :confounded:
+Basically I'm a video game developer :video_game: (at least that's how I saw myself when I was coding on my TO7-70 in 1984) but since then I've gone wrong! :scream:
 
 Since then I've done a lot of things, but I'm still focused on content creation (videos, articles, courses, books, [Twitch streaming](https://www.twitch.tv/patrickpremartin)), [training for companies](https://olfsoftware.fr/c/_20-formation.html) or individuals, providing services (technical support, one-off web or Delphi development) and [publishing software](https://olfsoftware.fr/c/_1_-logiciels-et-utilitaires.html), [video games](https://gamolf.fr), [mobile applications](https://olfsoftware.fr/c/_13-applications-mobiles.html), [scripts](https://olfsoftware.fr/c/_10-scripts.html) and [libraries](https://olfsoftware.fr/c/_12-librairies-et-composants-delphi.html).
 

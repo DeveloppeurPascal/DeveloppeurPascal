@@ -1,75 +1,33 @@
 [Cette page en français.](LISEZMOI.md)
 
-Hello
+# Patrick Prémartin
 
-Basically I'm a video game developer :video_game: (at least that's how I saw myself when I was coding on my TO7-70 in 1984) but since then I've gone wrong! :scream:
+As a freelance trainer and developer, I offer a wide range of online resources in the form of open source projects, videos and blogs.
 
-Since then I've done a lot of things, but I'm still focused on content creation (videos, articles, courses, books, [Twitch streaming](https://www.twitch.tv/patrickpremartin)), [training for companies](https://olfsoftware.fr/c/_20-formation.html) or individuals, providing services (technical support, one-off web or Delphi development) and [publishing software](https://olfsoftware.fr/c/_1_-logiciels-et-utilitaires.html), [video games](https://gamolf.fr), [mobile applications](https://olfsoftware.fr/c/_13-applications-mobiles.html), [scripts](https://olfsoftware.fr/c/_10-scripts.html) and [libraries](https://olfsoftware.fr/c/_12-librairies-et-composants-delphi.html).
+Between streams on [Twitch](https://www.twitch.tv/patrickpremartin), I can train you in the languages I use (Delphi, Object Pascal, PHP, JavaScript, HTML, CSS) or contribute to the creation and development of your software (desktop or mobile) and websites (back offices, API servers, SaaS, etc.).
 
-To find out more, discuss it, or offer me assignments, [check out these links](https://vasur.fr/gravatar) or my [LinkedIn page](https://www.linkedin.com/in/patrickpremartin/).
+If you need training (for your company, association, school, or other organisation) or technical support, or if you would like to offer me a project or job, please contact me using [this form](https://olfsoftware.fr/contact/) or [on LinkedIn](https://www.linkedin.com/in/patrickpremartin/).
 
-Happy coding!
+For questions, suggestions, or reports concerning my open source projects, please open a ticket on the relevant code repository.
 
-Patrick
+And if you want to discuss projects, development, or other things, [join me on Twitch](https://www.twitch.tv/patrickpremartin) when I'm online.
 
-## Where to start ?
+## Help me to do more!
 
-Between repositories related to webinars, conferences, training courses or books, repositories of libraries and components, repositories of video games, utility software or mobile applications, you've got plenty to do around here. One day I'll launch a search engine or document it all outside [blog devlogs](https://developpeur-pascal.fr/devlog.html).
+To support my online activities and publish more content, there's no miracle solution: I need money.
 
-These repositories serve as the basis for almost all my others:
+You can contribute by making a one-off or monthly donation via [Patreon](https://www.patreon.com/patrickpremartin), where you'll receive exclusive content in return.
 
-* :speech_balloon: [DeveloppeurPascal/AboutDialog-Delphi-Component](https://github.com/DeveloppeurPascal/AboutDialog-Delphi-Component) : a non-visual component for VCL and FMX to display an “about” dialog box on all platforms supported by Delphi
-* :file_folder: [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) : Pascal units for a little bit of everything
-* :video_game: [DeveloppeurPascal/Delphi-Game-Engine](https://github.com/DeveloppeurPascal/Delphi-Game-Engine) : a toolbox for VCL video games such as FireMonkey
+You can also support me on [Ko-Fi](https://ko-fi.com/patrick_premartin_en), [Liberapay](https://liberapay.com/PatrickPremartin), or [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal).
 
-And you have templates and starter kits that evolve according to my needs on other projects:
+Follow [my Twitch channel](https://www.twitch.tv/patrickpremartin) if you have an account (whether you watch me or not). It will boost my stats!
+And if you have an Amazon Prime subscription, use your option to [subscribe to my channel](https://www.twitch.tv/subs/patrickpremartin) each month. It won't cost you anything.
 
-* :runner: [DeveloppeurPascal/Delphi-Projects-Template](https://github.com/DeveloppeurPascal/Delphi-Projects-Template) : to have a “blank” code repository with basic files as for my code repositories
-* :construction_worker: (WIP) [DeveloppeurPascal/FMX-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit) : to get a FireMonkey project starter kit supporting translations, styles, document management
-* :video_game: [DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit](https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit) : to get a FireMonkey video game starter kit with real games as examples
-* :construction_worker: (WIP) [DeveloppeurPascal/VCL-Tools-Starter-Kit](https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit) : to get a VCL project starter kit supporting translations, styles, document management
+You can also purchase licences for [my softwares](https://store.olfsoftware.fr), web scripts and [Pascal libraries](https://store.developpeur-pascal.fr), buy one of the latest [mugs and goodies](https://goodies.medianim.com/search?query=delphi) available, or of course [offer me work](https://olfsoftware.fr/contact/) (a mission or ‘real’ job, as long as it doesn't conflict with the distribution of my existing software and services).
 
-Some projects are grouped into sub-modules of theme repositories, of which [here's the list](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=). This can make it easier to find things or to [download all at once](https://github.com/DeveloppeurPascal/_AllProjects).
+## Some documents and links to browse
 
-Lost in GitHub or don't know how to use git? Start with [this video](https://developpeur-pascal.fr/manipulations-git-et-github-de-base.html) or the links under it.
-
-## Some links to get you started with Pascal, Object Pascal and Delphi
-
-* :house: [Embarcadero](https://www.embarcadero.com) where you'll find descriptions of Delphi versions and can download the free Community Edition or an evaluation version.
-
-* :bookmark_tabs: [Online Documentation](https://docwiki.embarcadero.com) for Delphi and other Embarcadero development tools.
-
-* :school: [Apprendre Delphi](https://apprendre-delphi.fr) to learn Delphi with technical presentations, tutorials and free software programming training. You'll also find a [Getting started with Delphi](https://apprendre-delphi.fr/prise-en-main-de-delphi.html) course for developers of other languages.
-
-* :thought_balloon: [Développeur Pascal](https://developpeur-pascal.fr) for Delphi news, my Delphi-related news and technical articles or tutorials on Pascal coding.
-
-* :movie_camera: [Serial Streameur](https://serialstreameur.fr) offers hundreds of hours of French-language videos of software coding, video games, technical presentations and online conferences for developers of software, video games, mobile applications and websites.
-
-* :loudspeaker: Delphi developer communities exist all over the world and on the Internet. Some of them are listed [on Embarcadero's blog platform](https://blogs.embarcadero.com/community/).
-
-* :link: [Delphi Learning Resources](https://delphi-resources.developpeur-pascal.fr/) is a directory of Delphi-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
-
-* :link: [Pascal Learning Resources](https://pascal-resources.developpeur-pascal.fr/) is a directory of links to the Pascal and Object Pascal languages, whatever the development environment.
-
-* :link: [Lazarus Learning Resources](https://lazarus-resources.developpeur-pascal.fr/) is a directory of Lazarus-related links (docs, official sites, forums, videos, blogs, tutorials, etc.).
-
-* :books: There are also many [books on programming in Pascal with Delphi](https://delphi-books.com).
-
-## How can you support my activities, the creation of new content (videos, articles, training, presentations) and the free access to my sites, articles and videos?
-
-If you feel like it and if finances allow, support my work here and elsewhere. These links are also available on each of my repositories:
-
-* :rocket: [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
-* :coffee: Ko-fi [in French](https://ko-fi.com/patrick_premartin_fr) or [in English](https://ko-fi.com/patrick_premartin_en)
-* :ramen: [Patreon](https://www.patreon.com/patrickpremartin)
-* :baby_bottle: [Liberapay](https://liberapay.com/PatrickPremartin)
-* :sunglasses: [Twitch](https://www.twitch.tv/subs/patrickpremartin) (Amazon Prime subscriber ? You're entitled to one SUB on a Twitch channel each month. It's included in your subscription, it doesn't cost you anything extra and it can be a great help for streamers. Go ahead, use it!)
-* :chocolate_bar: [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
-
-If you need an invoice or accounting proof, use GitHub, Patreon or Twitch.
-
-:mailbox: You can [contact me directly](https://olfsoftware.fr/contact/) to offer me a training assignment (web or Delphi development), technical assistance or one-off development work. I can also advise you or help you use anything I distribute here or elsewhere.
-
-:gift: If you prefer goodies, I still have a few mugs for sale [exclusively on this site](https://goodies.medianim.com/search?query=delphi).
-
-PS: This page has been translated from [the French page](LISEZMOI.md) with [DeepL translation tool](https://www.deepl.com/).
+* [What is Delphi?](What-is-Delphi.md)
+* [Where to start with my open source projects?](Where-to-start.md)
+* [Some links to get started with Pascal, Pascal Object and Delphi](Programing-in-Pascal.md)
+* [Social networks, websites, and other links to find me online](https://vasur.fr/about)

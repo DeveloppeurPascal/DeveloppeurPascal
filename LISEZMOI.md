@@ -12,9 +12,23 @@ Pour des questions, suggestions ou signalements concernant mes projets open sour
 
 Et si vous voulez discuter projets, développement ou d'autres choses [rejoignez moi sur Twitch](https://www.twitch.tv/patrickpremartin) quand je suis en ligne.
 
+## Mes projets open source
+
+Pour des raisons idéologiques j'ai entamé une migration de [GitHub](https://github.com/DeveloppeurPascal) vers d'autres plateformes d'hébergement de projets libres plus respectueuses des créateurs, des données des développeurs et de notre planète en général.
+
+Vous trouverez mes dépôts historiques sur [GitHub](https://github.com/DeveloppeurPascal), sous forme de dépôts archivés ou en phase de l'être.
+
+Mes nouveaux projets et les projets maintenus sont progressivement basculés sur [Codeberg](https://codeberg.org/PatrickPremartin) (une association à but non lucratif établie en Allemagne). J'en profite pour les répartir par type :
+
+* [les codes sources, liens et PDF des présentations](https://codeberg.org/ConferencePapersFromPP) (webinaires, conférences)
+* [les codes sources de mes jeux vidéo](https://codeberg.org/Gamolf) (essentiellement en Pascal sous Delphi mais aussi parfois des serveurs ou sites en PHP ou JavaScript)
+* [les codes sources de mes logiciels](https://codeberg.org/OlfSoftware) (desktop et mobiles) pour développeurs ou le grand public (essentiellement en Pascal sous Delphi)
+* [les codes sources de mes exemples de projets, librairies et composants](https://codeberg.org/DeveloppeurPascal) pour développeurs Pascal sous Delphi, Lazarus ou Quartex
+* [les codes sources de mes projets web](https://codeberg.org/TrucsDevWeb) (scripts, librairies) (essentiellement du PHP et du JavaScript entre deux bouts de HTML et CSS, mais aussi parfois d'autres langages)
+
 ## Aidez moi à en faire plus !
 
-Pour soutenir mes activités en ligne et la publication de toujours plus de choses, il n'y a pas de miracle: il me faut de l'argent.
+Pour soutenir mes activités en ligne et la publication de toujours plus de choses, il n'y a pas de miracle: j'ai besoin d'argent pour passer du temps sur des contenus distribués gratuitement plutôt qu'à travailler sur des projets rémunérés (mais je suis preneur aussi si vous avez des missions à me confier).
 
 Vous pouvez y contribuer en faisant un don ponctuel ou mensuel depuis [Patreon](https://www.patreon.com/patrickpremartin) où vous aurez des contenus exclusif en contre partie.
 

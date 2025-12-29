@@ -12,9 +12,23 @@ For questions, suggestions, or reports concerning my open source projects, pleas
 
 And if you want to discuss projects, development, or other things, [join me on Twitch](https://www.twitch.tv/patrickpremartin) when I'm online.
 
+## My open source projects
+
+For ideological reasons, I have begun migrating from [GitHub](https://github.com/DeveloppeurPascal) to other free project hosting platforms that are more respectful of creators, developer data, and our planet in general.
+
+You can find my historical repositories on [GitHub](https://github.com/DeveloppeurPascal), either archived or in the process of being archived.
+
+My new and ongoing projects are gradually being moved to [Codeberg](https://codeberg.org/PatrickPremartin) (a non profit organization based in Germany). I am taking this opportunity to categorise them by type:
+
+* [source codes, links and PDFs of presentations](https://codeberg.org/ConferencePapersFromPP) (webinars, conferences)
+* [source codes for my video games](https://codeberg.org/Gamolf) (mainly in Pascal under Delphi, but also sometimes servers or websites in PHP or JavaScript)
+* [source codes for my software](https://codeberg.org/OlfSoftware) (desktop and mobile) for developers or the general public (mainly in Pascal under Delphi)
+* [source code for my sample projects, libraries and components](https://codeberg.org/DeveloppeurPascal) for Pascal developers using Delphi, Lazarus or Quartex
+* [source code for my web projects](https://codeberg.org/TrucsDevWeb) (scripts, libraries) (mainly PHP and JavaScript between two bits of HTML and CSS, but also sometimes other languages)
+
 ## Help me to do more!
 
-To support my online activities and publish more content, there's no miracle solution: I need money.
+To support my online activities and publish more content, there's no miracle solution: I need money to spend time on freely distributed content rather than working on paid projects (but I'm also interested if you have any assignments for me).
 
 You can contribute by making a one-off or monthly donation via [Patreon](https://www.patreon.com/patrickpremartin), where you'll receive exclusive content in return.
 
